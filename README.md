@@ -8,6 +8,11 @@ Results-driven and technically adept Staff Engineer with over 14+ years of hands
 
 Experienced in building system designs that effectively meet both functional and non-functional requirements. Proven expertise in building complex systems, implementing Test-Driven Development (TDD), and driving projects from conception to successful deployment. Proficient in grooming, mentoring, and breaking down intricate projects into manageable tasks. Scoped initiatives with a broad impact, not just at the team level but also at adjacent and non-adjacent team levels. Demonstrates a hands-on leadership style by closely identifying and resolving potential blockers, ensuring the seamless and accelerated progression of projects.
 
+### Fun Facts 🎉
+
+- I once accidentally deleted my entire codebase and had to rewrite it from scratch. 😅
+- I firmly believe that debugging is 99% swearing and 1% fixing bugs. 💻🤬
+
 **Technical Tools/Key Skills** 🍳
 
 Java, Python, Spring framework, Spring Boot
